@@ -8,6 +8,8 @@ Create short link for url with expired time 24 hour.
 
 To start application run docker-compose.yml and you will make automatic app and mysql database.
 
+In chatgut-compose folder is docker-compose.yml when you run you gona start all other microservers to run backend for chat app.
+
 
 
 ---
